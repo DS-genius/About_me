@@ -1,5 +1,6 @@
 ## 👨🏽‍💻 About Me :
-- 🎓 Education: 
+- 🎓 Education:
+
 PML 239
 
 PML 30
